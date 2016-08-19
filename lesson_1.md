@@ -27,4 +27,4 @@
 ## Lesson Activities
 1. Learn some common keyboard shortcuts.  Get familiar with them.
 2. Make a project from the terminal.
-3. Edit some project files in Atom. Focus on keyboard shortcuts.
+3. Edit some project files in Atom. Focus on keyboard shor:tcuts.
