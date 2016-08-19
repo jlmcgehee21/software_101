@@ -36,9 +36,9 @@
 * Good software developers are aware of the software culture.  They keep in tune
   with the latest tools and techniques.  A great way to do this is by attending
   meetup events. Go to a meetup, and try to attend regularly from now on.
-  Here's one for [women programmers in Nashville](https://www.meetup.com/NashvilleWomenProgrammers/).
+  Here's one for [women programmers in Nashville](https://www.meetup.com/NashvilleWomenProgrammers/),
   and another one for [python developers](https://www.meetup.com/PyNash/).  If
   you don't like these, find one you do like.
-  
+
 
 
