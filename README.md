@@ -2,3 +2,4 @@
 A rough curriculum for my sister-in-law to get familiar with the software world.
 
 * [Lesson1 - How to use your computer (like a software developer)](lesson_1.md)
+* [Lesson2 - Python Basics](lesson_2.md)
